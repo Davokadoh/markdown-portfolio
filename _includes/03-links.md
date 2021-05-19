@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+This is my GitHub: [https://github.com/Davokadoh](https://github.com/Davokadoh)
+This is my Email: [Davokadoh@gmail.com](Davokadoh@gmail.com)
